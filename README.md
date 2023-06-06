@@ -27,8 +27,8 @@ In order to run the code the following packages must be installed:
 
 These packages can installed by opening a new terminal in Jupyter Notebook and using the following command:
 
-```pip install [Insert package name here.]``
-`
+```pip install [Insert package name here.]```
+
 Where the brackets are replaced with the package name. For example, to install astropy enter the command:
 
 ```pip install astropy```
