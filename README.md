@@ -54,3 +54,7 @@ I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped
 I thank Dr. Chris Sneden and Dr. Kurtis Williams for supervising my research. They helped me gain experience using the Gaia Archive. I further thank Dr. Williams for giving me the idea for this project.
 
 Note: To view this information in the app click the "Acknowledgements" button in the lower right.
+
+___
+##  Disclaimer
+This project was originally created by Joseph W Barnett. As long as credit is given to the original author, it can be altered and distributed for noncommercial use.
