@@ -34,3 +34,11 @@ Where the brackets are replaced with the package name. For example, to install a
 ```pip install astropy```
 
 ___
+## Instructions
+To begin a search start by inputting the right acsension, declination, and radius in the three entry fields at the top. Units should be in degrees
+
+Next, check the boxes for the columns to be displayed in the csv file. For information on what data appears in each column see the [Gaia Documentation](https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/sec_dm_main_tables/ssec_dm_gaia_source.html).
+
+Lastly, input a file name in the optional entry field at the bottom and click "Download CSV". This will open a dialouge box telling how much data the output file will contain. To continue click "Yes" and the file will be saved in the directory this program is saved. This Dialogue box will close once the download is complete. To refine the search click "No" to close the dialogue box. No file will be downloaded in this case.
+
+Note: To view this information in the app click the "Help" button in the lower left.
