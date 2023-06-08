@@ -2,7 +2,7 @@
 Search the Gaia Archive and automatically download results as a CSV file.
 ___
 ## About The Project
-The Gaia Mission is a European Space Agency (ESA) mission designed to archive data for over a billion stars. The Gaia Archive is freely available online. Its most recent data release is Gaia DR3, and includes astrometric, photometric, and spectroscopic data. More information about the Gaia Mission and Gaia Archive can be found [here](https://www.esa.int/Science_Exploration/Space_Science/Gaia_overview).
+The Gaia Mission is a European Space Agency (ESA) mission designed to archive data for over a billion stars. The Gaia Archive is freely available online with its most recent data release being Gaia DR3, which includes astrometric, photometric, and spectroscopic data. More information about the Gaia Mission and Gaia Archive can be found [here](https://www.esa.int/Science_Exploration/Space_Science/Gaia_overview).
 
 Using the astroquery Python package one can search various astronomical databases, including Gaia, and either print results directly to the console or write the results to a file. Documentation for searching the Gaia Archive using astroquery can be found [here](https://astroquery.readthedocs.io/en/latest/api/astroquery.gaia.GaiaClass.html).
 
