@@ -1,10 +1,10 @@
 # GaiaToCSV
-Search the Gaia Database and automatically download results as a CSV file.
+Search the Gaia Archive and automatically download results as a CSV file.
 ___
 ## About The Project
-The Gaia mission is a European Space Agency (ESA) mission designed to archive data for over a billion stars. The Gaia Archive is freely available online. Its most recent data release is Gaia DR3, and includes astrometric, photometric, and spectroscopic data. More information about the Gaia Mission and Gaia Archive can be found [here](https://www.esa.int/Science_Exploration/Space_Science/Gaia_overview).
+The Gaia Mission is a European Space Agency (ESA) mission designed to archive data for over a billion stars. The Gaia Archive is freely available online. Its most recent data release is Gaia DR3, and includes astrometric, photometric, and spectroscopic data. More information about the Gaia Mission and Gaia Archive can be found [here](https://www.esa.int/Science_Exploration/Space_Science/Gaia_overview).
 
-Using the astroquery Python package one can search various astronomical databases, including Gaia, and either print results directly to the console or write the results to a file. Documentation for searching the Gaia database using astroquery can be found [here](https://astroquery.readthedocs.io/en/latest/api/astroquery.gaia.GaiaClass.html).
+Using the astroquery Python package one can search various astronomical databases, including Gaia, and either print results directly to the console or write the results to a file. Documentation for searching the Gaia Archive using astroquery can be found [here](https://astroquery.readthedocs.io/en/latest/api/astroquery.gaia.GaiaClass.html).
 
 This project allows the user to search the Gaia Archive and export the results to a CSV file. The project uses an interface similar to Gaia and can be used without the technical knowledge needed to use either astropy or astroquery. However, knowledge of astropy and astroquery is essential to understanding the source code.
 ___
@@ -47,7 +47,7 @@ ___
 ## Acknowledgements
 I acknowledge the extensive use of the Gaia Archive for this project and am grateful for the work done by the European Space Agency for its work on the Gaia Mission.
 
-Furthermore, I would like to thank the creators of the astropy and astroquery packages. Both were valuable in using Python to access the Gaia database.
+Furthermore, I would like to thank the creators of the astropy and astroquery packages. Both were valuable in using Python to access the Gaia Archive.
 
 I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in Python. Including the one for this project.
 
