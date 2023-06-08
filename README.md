@@ -11,7 +11,7 @@ ___
 ## Installation
 This project runs in Jupyter Notebook. To use Jupyter Notebook it is necessary to download and install [Anaconda](https://www.anaconda.com/download). Once installed Jupyter Notebook can be accessed through the Anaconda Navigator.
 
-In order to run the code, the following packages must be installed:
+To run the code, the following packages must be installed:
 - tkinter
 - astroquery
 - numpy
@@ -29,7 +29,7 @@ These packages can be installed by opening a new terminal in Jupyter Notebook an
 
 ```pip install [Insert package name here.]```
 
-Where the brackets are replaced with the package name. For example, to install astropy enter the command:
+Where the brackets should be replaced with the package name. For example, to install astropy enter the command:
 
 ```pip install astropy```
 
@@ -47,7 +47,7 @@ ___
 ## Acknowledgements
 I acknowledge the extensive use of the Gaia Archive for this project and am grateful for the work done by the European Space Agency for its work on the Gaia Mission.
 
-Furthermore, I'd like to thank the creators of the astropy and astroquery packages. Both were valuable in using python to access the Gaia database.
+Furthermore, I would like to thank the creators of the astropy and astroquery packages. Both were valuable in using python to access the Gaia database.
 
 I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in python. Including the one for this project.
 
