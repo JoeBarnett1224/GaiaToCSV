@@ -47,9 +47,9 @@ ___
 ## Acknowledgements
 I acknowledge the extensive use of the Gaia Archive for this project and am grateful for the work done by the European Space Agency for its work on the Gaia Mission.
 
-Furthermore, I would like to thank the creators of the astropy and astroquery packages. Both were valuable in using python to access the Gaia database.
+Furthermore, I would like to thank the creators of the astropy and astroquery packages. Both were valuable in using Python to access the Gaia database.
 
-I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in python. Including the one for this project.
+I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in Python. Including the one for this project.
 
 I thank Dr. Chris Sneden and Dr. Kurtis Williams for supervising my research. They helped me gain experience using the Gaia Archive. I further thank Dr. Williams for giving me the idea for this project.
 
