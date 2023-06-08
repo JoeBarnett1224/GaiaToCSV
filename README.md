@@ -6,10 +6,10 @@ The Gaia mission is a European Space Agency (ESA) mission designed to archive da
 
 Using the astroquery Python package one can search various astronomical databases, including Gaia, and either print results directly to the console or write the results to a file. Documentation for searching the Gaia database using astroquery can be found [here](https://astroquery.readthedocs.io/en/latest/api/astroquery.gaia.GaiaClass.html).
 
-This project allows the user to search the Gaia Archive and export the results to a CSV file. The project uses an interface similar to Gaia, and can be used without the technical knowledge needed to use either astropy or astroquery. However, knowledge of astropy and astroquery is essential to understanding the source code.
+This project allows the user to search the Gaia Archive and export the results to a CSV file. The project uses an interface similar to Gaia and can be used without the technical knowledge needed to use either astropy or astroquery. However, knowledge of astropy and astroquery is essential to understanding the source code.
 ___
 ## Installation
-This project runs in Jupyter Notebook. To use Jupyter Notebook it is necessary to download and install [Anaconda](https://www.anaconda.com/download). Once installed Jupyter Notebook can be accessed through the Anaconda Navigator.
+This project runs in Jupyter Notebook. To use Jupyter Notebook it is necessary to download and install [Anaconda](https://www.anaconda.com/download). Once installed, Jupyter Notebook can be accessed through the Anaconda Navigator.
 
 To run the code, the following packages must be installed:
 - tkinter
@@ -35,7 +35,7 @@ Where the brackets should be replaced with the package name. For example, to ins
 
 ___
 ## Instructions
-To begin a search input the right ascension, declination, and radius in the corresponding entry fields at the top of the app. Units should be in degrees.
+To begin a search, input the right ascension, declination, and radius in the corresponding entry fields at the top of the app. Units should be in degrees.
 
 Next, check the boxes for the columns to be displayed in the CSV file. For information on what data appears in each column see the [Gaia Documentation](https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/sec_dm_main_tables/ssec_dm_gaia_source.html).
 
