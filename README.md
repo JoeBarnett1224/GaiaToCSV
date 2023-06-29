@@ -9,7 +9,7 @@ Using the astroquery Python package one can search various astronomical database
 This project allows the user to search the Gaia Archive and export the results to a CSV file. The project uses an interface similar to Gaia and can be used without the technical knowledge needed to use either astropy or astroquery. However, knowledge of astropy and astroquery is essential to understanding the source code.
 ___
 ## Version History
-GaiaToCSV2: This version features an improved layout
+__GaiaToCSV2__: This version features an improved layout
 ___
 ## Installation
 This project runs in Jupyter Notebook. To use Jupyter Notebook it is necessary to download and install [Anaconda](https://www.anaconda.com/download). Once installed, Jupyter Notebook can be accessed through the Anaconda Navigator.
